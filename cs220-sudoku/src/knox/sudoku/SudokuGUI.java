@@ -579,6 +579,7 @@ public class SudokuGUI extends JFrame {
     
     public static void main(String[] args) {
         SudokuGUI g = new SudokuGUI();
+        
         g.setVisible(true);
     }
 
