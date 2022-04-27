@@ -441,7 +441,7 @@ public class SudokuGUI extends JFrame {
     				
     				
     			}
-    			JOptionPane.showMessageDialog(null, "No clue how this went, give me a sec");
+    			JOptionPane.showMessageDialog(null, "No clue how this went, probably poorly, give me a sec");
     			update();
     		}
     	});
